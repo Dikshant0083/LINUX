@@ -11,6 +11,7 @@ command to create all three subdirectories at the same time.
 
 Approach to  -- use touch to create file
   syntax touch file1.txt filmX.avi etc
+  
 Example touch file1.txt 
 
 
