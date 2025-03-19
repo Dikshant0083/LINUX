@@ -7,6 +7,9 @@ Forbid others from accessing files in
 the /home/consultants directory.
 
 
+![image](https://github.com/user-attachments/assets/5de7130f-4993-4286-a491-6a0684c07488)
+
+
 Experiment -9
 
 Use the octal method for 
